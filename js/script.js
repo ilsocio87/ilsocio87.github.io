@@ -77,8 +77,13 @@
 	
 $(document).ready(function() {
 
-	$(".slave-height").height($(".master-height").outerHeight());
 	
+	var mq = window.matchMedia( "(min-width: 768px)" );
+	if (mq.matches){
+		$(".slave-height").height($(".master-height").outerHeight());
+	} else {
+		$(".slave-height").height(300);
+	}
 	$("a").on('click', function(event) {
 
     // Make sure this.hash has a value before overriding default behavior

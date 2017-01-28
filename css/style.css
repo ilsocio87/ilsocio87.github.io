@@ -3393,6 +3393,10 @@ button.mfp-close, button.mfp-arrow {
 }
 }
 
+.master-height {
+	height: auto;
+}
+
 @media screen and (max-width: 768px) and (orientation : landscape) {
 /* 06.5.6 Save The Date Title */
 /* ----------------------------------------------*/	
@@ -3417,6 +3421,10 @@ button.mfp-close, button.mfp-arrow {
 }
 }
 
+.master-height {
+	height: auto;
+}
+
 
 @media screen and (max-width: 768px) {	
 /*===============================================*/
@@ -3428,6 +3436,9 @@ form .btn{
 }
 }
 
+.master-height {
+	height: auto;
+}
 
 @media screen and (max-width: 480px)  {	
 /*===============================================*/
@@ -3438,8 +3449,9 @@ p{
 	line-height:24px;
 }*/
 
-
-
+.master-height {
+	height: auto;
+}
 /* 06.5.6 Save The Date Title */	
 /* ----------------------------------------------*/	
 #save-the-date{

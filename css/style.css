@@ -3394,8 +3394,8 @@ button.mfp-close, button.mfp-arrow {
 /* ----------------------------------------------*/	
 #save-the-date{
 	padding-right:40px;
-	padding-top:0;
-	margin-bottom:0px;	
+	padding-top:50px;
+	margin-bottom:10px;	
 }
 
 #save{
@@ -3440,8 +3440,8 @@ p{
 /* ----------------------------------------------*/	
 #save-the-date{
 	padding-right:40px;
-	margin-bottom:0px;
-	padding-top:0;
+	margin-bottom:10px;
+	padding-top:100px;
 	
 }
 
@@ -3657,8 +3657,8 @@ p{
 /* ----------------------------------------------*/
 #save-the-date{
 	padding-right:40px;
-	padding-top:0;
-	margin-bottom:0px;
+	padding-top:100px;
+	margin-bottom:10px;
 	
 }
 

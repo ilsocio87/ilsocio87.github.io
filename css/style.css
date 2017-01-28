@@ -187,8 +187,12 @@
 
 /* custom */
 
-.master-height{
+.master-height {
 	height: 450px;
+}
+
+#paragraph-lead {
+	padding: 30px;
 }
 
 

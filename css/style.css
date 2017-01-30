@@ -187,6 +187,10 @@
 
 /* custom */
 
+.lang-switch{
+	padding: 20px;
+}
+
 .master-height {
 	height: 500px;
 }
